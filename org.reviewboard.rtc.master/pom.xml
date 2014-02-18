@@ -27,7 +27,7 @@
 		<repository>
 			<id>rtc</id>
 			<layout>p2</layout>
-			<url>file:///RTC/RTC-SDK-4.0.1</url>
+			<url>file:///RTC-SDK</url>
 		</repository>
 	</repositories>
 
